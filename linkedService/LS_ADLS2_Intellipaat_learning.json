@@ -1,0 +1,13 @@
+{
+	"name": "LS_ADLS2_Intellipaat_learning",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Linked Service to Azure data lake storage gen 2",
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://intellipaatlearning.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFFQkRCMTM5LUNCNzAtNEE5My1BNkIyLTM5OERGNUU4MDc1MV8xNDQ2NTE0ZS1iM2U4LTRlNWEtODMzOS05NmY3NzQ3NTZkYzIiDQp9"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Intelliadfnew",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b8ad58e-6b2a-4f2d-a386-3ae3acd4ee28",
+		"tenantId": "4e569009-ba22-4e51-bd19-936edb8fbd3b"
+	}
+}

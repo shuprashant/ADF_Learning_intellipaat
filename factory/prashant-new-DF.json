@@ -1,0 +1,9 @@
+{
+	"name": "prashant-new-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "410bf404-7951-42f8-bbca-38e298b412d2",
+		"tenantId": "4e569009-ba22-4e51-bd19-936edb8fbd3b"
+	}
+}
